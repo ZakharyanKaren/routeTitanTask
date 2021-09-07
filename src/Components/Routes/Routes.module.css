@@ -1,0 +1,19 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  background-color: #e5e8e9;
+  margin: 8px;
+  height: 88px;
+}
+
+p {
+  margin: 0;
+}
+
+.timeWrapper {
+  padding-right: 24px;
+}

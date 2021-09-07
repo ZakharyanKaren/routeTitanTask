@@ -1,0 +1,25 @@
+.marker {
+  /* The following icon is owned by Stadia Maps. While you maintain an account with us, we grant you royalty-free use of
+     * this image when displayed on our maps.
+     */
+  width: 26px;
+  height: 36px;
+  cursor: pointer;
+}
+.marker div {
+  color: white;
+  text-align: center;
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+
+.unfinished {
+  background-color: white;
+}
+
+.finished {
+  background-color: blue;
+}
